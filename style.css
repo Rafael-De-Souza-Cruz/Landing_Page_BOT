@@ -38,6 +38,7 @@ body {
   color: white;
   font-weight: 400;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .conteudo {
@@ -127,5 +128,5 @@ body {
 }
 
 .botao:hover {
-  background-color: rgba(236, 214, 196, 0.53);
+  background-color: rgba(196, 236, 206, 0.53);
 }
